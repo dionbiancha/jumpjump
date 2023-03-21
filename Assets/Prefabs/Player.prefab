@@ -105,7 +105,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 5
-  m_Material: {fileID: 6200000, guid: db16161d5b3105443ba18dc753f5620e, type: 2}
+  m_Material: {fileID: 6200000, guid: 5ce2821206d148048983e2efb7695e49, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -123,7 +123,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0014511757, y: 0.03545665}
+  m_Offset: {x: 0.0010659471, y: 0.022741646}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -134,7 +134,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.21839142, y: 0.09908669}
+  m_Size: {x: 0.18833773, y: 0.11835186}
   m_EdgeRadius: 0
 --- !u!114 &6292662955114974450
 MonoBehaviour:
@@ -185,6 +185,6 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0020653477, y: -0.038186528}
+  m_Offset: {x: 0.0016800457, y: -0.05976346}
   serializedVersion: 2
-  m_Radius: 0.13586746
+  m_Radius: 0.10696977
