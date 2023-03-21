@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1679439994/2af36695-da6a-49e4-99a0-dbf9a3df9b93-_online-video-cutter.com__uml3im.gif">
+  <img alt="Print" src="https://res.cloudinary.com/dionbiancha/image/upload/v1679441819/Design_sem_nome_1_ufhl8q.gif">
 </p>
 
 ## :computer: Technologies
@@ -53,10 +53,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [U
 # Clone this repository
 $ git clone https://github.com/dionbiancha/jumpjump.git
 
-# Go into the repository
-$ cd jumpjump
+# open game project with Unity
 
-# open game project with unity
+# run to  Unity build
 ```
 
 ## :memo: License
